@@ -1,1 +1,2 @@
-# katalyst-ai-test
+# django mono-repo-starter-template
+
